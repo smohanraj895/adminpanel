@@ -1,0 +1,128 @@
+[
+	{
+		"label":"Branches",
+		"view":"green",
+		"edit":"green",
+		"approve":"green",
+		"reqApproval":"green",
+		"scope":"all_clients"
+	},
+	{
+		"label":"Offices",
+		"view":"green",
+		"edit":"green",
+		"approve":"green",
+		"reqApproval":"red",
+		"scope":"system"
+	
+	},
+	{
+		"label":"MOP",
+		"view":"red",
+		"edit":"#ccc",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"client_id"
+	
+	},
+	{
+		"label":"Bilateral Accounts",
+		"view":"green",
+		"edit":"green",
+		"approve":"green",
+		"reqApproval":"green",
+		"scope":"all_clients"
+	
+	},
+	{
+		"label":"Business Rules",
+		"view":"red",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"all_clients"
+	
+	},
+	{
+		"label":"Correspondents",
+		"view":"green",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"system"
+	
+	},
+	{
+		"label":"Fix Rates",
+		"view":"#ccc",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"all_clients"
+	
+	},
+	{
+		"label":"Correspondents",
+		"view":"green",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"client_id"
+	
+	},
+	{
+		"label":"Task Details",
+		"view":"red",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"system"
+	
+	},
+	{
+		"label":"Task Constraints",
+		"view":"green",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"all_clients"
+	
+	},
+	{
+		"label":"Roles",
+		"view":"green",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"client_id"
+	
+	},
+	{
+		"label":"Users",
+		"view":"green",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"system"
+	
+	},
+	{
+		"label":"Currencies",
+		"view":"green",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"client_id"
+	
+	},
+	{
+		"label":"Alert &  Notifications",
+		"view":"red",
+		"edit":"red",
+		"approve":"red",
+		"reqApproval":"green",
+		"scope":"all_clients"
+	
+	}
+
+]

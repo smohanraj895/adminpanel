@@ -1,0 +1,30 @@
+{
+  "numofmessage" : 88,
+  "upperLimit" : 150,
+  "lowerLimit" : 0,
+  "unit" : "",
+  "precision" : 0,
+  "ranges" : [{
+    "min" : 0,
+    "max" : 30,
+    "color" : "#DEDEDE"
+  }, {
+    "min" : 30,
+    "max" : 60,
+    "color" : "#8DCA2F"
+  }, {
+    "min" : 60,
+    "max" : 90,
+    "color" : "#FDC702"
+  }, {
+    "min" : 90,
+    "max" : 120,
+    "color" : "#FF7700"
+  }, {
+    "min" : 120,
+    "max" : 150,
+    "color" : "#C50200"
+  }
+  ]
+
+}
